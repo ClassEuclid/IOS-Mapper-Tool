@@ -1,8 +1,8 @@
 # iOS Mapper Tool
 
-The **iOS Mapper Tool** is designed to help forensic professionals visually analyze data from the iOS `com.apple.routined` caches database, specifically focusing on the `ZRTCLLOCATIONMO` table.
+The iOS Mapper Tool is designed to help forensic professionals visually analyze data from the iOS `com.apple.routined` caches database, specifically focusing on the `ZRTCLLOCATIONMO` table.
 
-This tool can be especially valuable in **criminal or civil cases**, helping investigators, attorneys, and analysts:
+This tool can be especially valuable in criminal or civil cases, helping investigators, attorneys, and analysts:
 
 - Visually depict location data on an interactive map
 - Present clear evidence to judges, jurors, or clients
@@ -12,21 +12,33 @@ This tool can be especially valuable in **criminal or civil cases**, helping inv
 
 ## Features
 
- **User-friendly interface**  
-- Converts iOS Apple Absolute Time to readable timestamps  
-- Converts speeds from meters per second to miles per hour (MPH)  
-- Sorts data for easy review  
-- Generates an interactive HTML map  
-- Saves output files for case documentation  
-- Available as:
+User-friendly interface  
+Converts iOS Apple Absolute Time to readable timestamps  
+Converts speeds from meters per second to miles per hour (MPH)  
+Sorts data for easy review  
+Generates an interactive HTML map  
+Saves output files for case documentation  
+Available as:
 - A Python script
 - A compiled Windows executable (.exe)
 
 ---
 
+## Example Outputs
+
+### Interactive Map
+
+![HTML Map Screenshot](ExampleImages/HTMLVisual.png)
+
+### Formatted Excel Spreadsheet
+
+![Formatted Spreadsheet Screenshot](ExampleImages/updatedspreadsheet.png)
+
+---
+
 ## Use Case
 
-This tool is designed for **digital forensic investigators, law enforcement, and legal professionals** who need to transform raw iOS location artifacts into clear, understandable visualizations and reports.
+This tool is designed for digital forensic investigators, law enforcement, and legal professionals who need to transform raw iOS location artifacts into clear, understandable visualizations and reports.
 
 It’s especially useful when presenting evidence in court, where clear visuals help explain complex technical data to non-technical audiences.
 
@@ -49,5 +61,5 @@ First, clone or download this repository.
 
 If running the Python script:
 
-```bash
 pip install -r requirements.txt
+
