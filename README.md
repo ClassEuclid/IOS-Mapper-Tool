@@ -1,6 +1,6 @@
 # iOS Mapper Tool
 
-The iOS Mapper Tool is designed to help forensic professionals visually analyze data from the iOS `com.apple.routined` caches database, specifically focusing on the `ZRTCLLOCATIONMO` table.
+The iOS Mapper Tool is designed to help visually analyze data from the iOS `com.apple.routined` caches database, specifically focusing on the `ZRTCLLOCATIONMO` table.
 
 This tool can be especially valuable in a visual presentation format or to narrow down larger data sets:
 
