@@ -21,6 +21,7 @@ Saves output files for documentation
 Available as:
 - A Python script
 - A compiled Windows executable (.exe)
+    - [.Exe is under Releases](https://github.com/ClassEuclid/IOS-Mapper-Tool/releases/tag/v2.2.0)
 
 ---
 
