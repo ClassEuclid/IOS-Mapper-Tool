@@ -1,7 +1,7 @@
 """
 Script: IOS Mapper Tool
 Description: Digital Forensics tool for analyzing iOS com.apple.routined caches.sqlite databases,
-using a modern GUI built with CustomTkinter. Allows for a quicker display for presentation or court purposes, or faster filter. 
+using a modern GUI built with CustomTkinter. Allows for a quicker display for presentation or faster filter. 
 
 Author: Class Euclid
 Date: 07/12/25
