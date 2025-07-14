@@ -2,10 +2,10 @@
 
 The iOS Mapper Tool is designed to help forensic professionals visually analyze data from the iOS `com.apple.routined` caches database, specifically focusing on the `ZRTCLLOCATIONMO` table.
 
-This tool can be especially valuable in criminal or civil cases, helping investigators, attorneys, and analysts:
+This tool can be especially valuable in a visual presentation format or to narrow down larger data sets:
 
 - Visually depict location data on an interactive map
-- Present clear evidence to judges, jurors, or clients
+- Present a clear user friendly map
 - Generate a formatted Excel spreadsheet with readable timestamps and speeds
 
 ---
@@ -17,7 +17,7 @@ Converts iOS Apple Absolute Time to readable timestamps
 Converts speeds from meters per second to miles per hour (MPH)  
 Sorts data for easy review  
 Generates an interactive HTML map  
-Saves output files for case documentation  
+Saves output files for documentation  
 Available as:
 - A Python script
 - A compiled Windows executable (.exe)
@@ -38,9 +38,9 @@ Available as:
 
 ## Use Case
 
-This tool is designed for digital forensic investigators, law enforcement, and legal professionals who need to transform raw iOS location artifacts into clear, understandable visualizations and reports.
+This tool is designed to transform raw iOS location artifacts into clear, understandable visualizations and reports.
 
-It’s especially useful when presenting evidence in court, where clear visuals help explain complex technical data to non-technical audiences.
+It’s especially useful where clear visuals help explain complex technical data to non-technical audiences.
 
 ---
 
