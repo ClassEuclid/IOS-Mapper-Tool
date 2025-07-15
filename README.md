@@ -64,3 +64,15 @@ If running the Python script:
 
 pip install -r requirements.txt
 
+## Running the Tool
+python main.py
+OR
+.EXE located in Releases
+
+
+## Credits
+
+- The Forensic Scooter (https://theforensicscooter.com/)
+- Pandas library
+- Folium library
+- CustomTkinter library
