@@ -21,7 +21,7 @@ Saves output files for documentation
 Available as:
 - A Python script
 - A compiled Windows executable (.exe)
-    - [.Exe is under Releases](https://github.com/ClassEuclid/IOS-Mapper-Tool/releases/tag/v2.2.0)
+    - [.Exe is under Releases](https://github.com/ClassEuclid/IOS-Mapper-Tool/releases/tag/v2.3.0)
 
 ---
 
@@ -63,6 +63,7 @@ First, clone or download this repository.
 If running the Python script:
 
 pip install -r requirements.txt
+python ios_mapper_tool.py
 
 
 ## Credits
@@ -71,3 +72,4 @@ pip install -r requirements.txt
 - Pandas library
 - Folium library
 - CustomTkinter library
+- openpyxl
